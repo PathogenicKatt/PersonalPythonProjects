@@ -20,7 +20,8 @@ university1 = LocalUniversity("NWU", "North-West", 1000, 2024)
 university2 = LocalUniversity("UJ", "Gauteng", 3000, 2024)
 university3 = LocalUniversity("Wits", "Gauteng", 900, 2024)
 
-
+'''
 print(university1) # __str__
 print("UJ" in university2) # __contains__
-print(university1 == university2) # __eq__
+print(university1 == university2) # __eq__ 
+'''
